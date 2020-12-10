@@ -1,1 +1,1 @@
-# neurosity-notion-awesome-list
+# awesome-neurosity-notion
